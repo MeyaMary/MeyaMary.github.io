@@ -110,7 +110,7 @@ a:hover {
 
 
 /* regular text */
-p,li,figcaption,td,.katex-display {
+p,li,figcaption,td,label,.katex-display {
   font-size: 20px;
   color: var(--color-text-main);
 }
