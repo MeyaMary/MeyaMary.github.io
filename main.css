@@ -119,6 +119,11 @@ p,li,figcaption,td,label,.katex-display {
 .form-control {
   color: var(--color-text-code);
   /* background-color: var(--color-bg-main); */
+
+  &:focus {
+    color: oklch(from var(--color-text-code) calc(l + 0.08) c h);
+
+  }
 }
 
 table td {
