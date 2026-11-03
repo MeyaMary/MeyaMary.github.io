@@ -20,6 +20,7 @@
 }
 
 
+
 html, body {
   height: 100%;
   width: 100%;
@@ -113,6 +114,11 @@ a:hover {
 p,li,figcaption,td,label,.katex-display {
   font-size: 20px;
   color: var(--color-text-main);
+}
+
+.form-control {
+  color: var(--color-text-code);
+  /* background-color: var(--color-bg-main); */
 }
 
 table td {

@@ -1,3 +1,0 @@
-import{a as n,f as p}from"../chunks/d5ZxNosq.js";import{p as d,s as e,f,a as c,e as l,$ as h,g as v,r as b,n as g}from"../chunks/DFx8-ubO.js";import{e as u,i as x}from"../chunks/C7vcU7xk.js";import{h as T}from"../chunks/C9vaeWDi.js";import{s as _}from"../chunks/CQdhX0hG.js";import{C as k}from"../chunks/RSoBF1jn.js";import{T as C}from"../chunks/DVz-4FCB.js";var $=p('<br/> <br/> <!> <div class="hide-links card-container"></div> <br/> <br/>',1);function D(i,a){d(a,!0);var r=$();T("kqx6ns",t=>{l(()=>{h.title=`
-    Tools
-   `})});var s=e(f(r),4);C(s,{title:"Tools",icon:"bi-gear",items:[]});var o=e(s,2);u(o,21,()=>a.data.cards,x,(t,m)=>{k(t,_(()=>v(m)))}),b(o),g(4),n(i,r),c()}export{D as component};
